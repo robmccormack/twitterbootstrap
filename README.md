@@ -8,4 +8,4 @@ Twitter Bootstrap 3 Tutorial
 Twitter Bootstrap 3 Tutorial
 
 
-![](https://raw2.github.com/robmccormack/twitterbootstrap/master/img/willscreenshot.png)
+![](https://raw2.github.com/robmccormack/twitterbootstrap/master/img/screenshotsintel.jpb)
