@@ -17,6 +17,6 @@ Twitter Bootstrap 3 Tutorial
 Twitter Bootstrap 3 Carousel
 ================
 
-![](https://github.com/robmccormack/twitterbootstrap/blob/master/img/carousel.png)
+![](https://github.com/robmccormack/twitterbootstrap/blob/master/img/carousel.png?raw=true)
 
 
