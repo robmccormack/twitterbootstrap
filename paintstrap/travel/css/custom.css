@@ -1,0 +1,8 @@
+@import url("bootstrap.min.css");
+
+/* the import above brings in the bootsrap css */
+
+h1{
+
+	color: #ff0000;
+}
