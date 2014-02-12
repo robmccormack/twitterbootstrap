@@ -34,13 +34,16 @@ img {
 <script type='text/javascript'>//<![CDATA[ 
 // TB3 docs on modals: http://getbootstrap.com/javascript/#modals-usage
 // note this uses YouTube ID: darQyopeUEA
-// just replace this with the YouTube ID you want, do not paste whole iframe embed tag
+// just replace this with the YouTube ID you want, do not paste whole iframe embed tag from youtube
 
 
 $(window).load(function(){
 
 $('#myModal').on('show.bs.modal', function () {
-  $('div.modal-body').html('<iframe src="http://www.youtube.com/v/darQyopeUEA&amp;rel=0&amp;autohide=1&amp;showinfo=0&amp;autoplay=1" width="500" height="281" frameborder="0" allowfullscreen=""></iframe>');  
+
+
+  $('div.modal-body').html('<iframe src="http://www.youtube.com/v/darQyopeUEA&amp;rel=0&amp;autohide=1&amp;showinfo=0&amp;autoplay=1" width="500" height="281" frameborder="0" allowfullscreen=""></iframe>'); 
+
 });
 
 $('#myModal').on('hide.bs.modal', function () {
